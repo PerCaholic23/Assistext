@@ -1,5 +1,5 @@
-# testTTs
-Sometimes you gotta close the door to open the windows
+# Assistext
+This is the source code for our project called **Assistext**. Assistext is the device that can help visual impairements
 
 ////idk////
 sudo pip install opencv-python
