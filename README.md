@@ -14,22 +14,21 @@ This is the source code for our project called **Assistext**. Assistext is the d
 > The speakers use to output sound to user so they can hear it.
 
 ## Require libraries
-1. Opencv
+1. OpenCV
    `sudo pip install opencv-python`
 2. Google Text-to-Speech
    `sudo pip install gTTS`
-3. Pytesseract
-   `sudo pip install pytesseract` 
-4. Tesseract-ocr
-   `sudo pip tesseract-ocr`
-5. Libtesseract-dev
+3. Tesseract OCR
+   `sudo pip install tesseract-ocr` 
+4. Pytesseract
+   `sudo pip install pytesseract`
+5. Tesseract development package 
    `sudo apt install libtesseract-dev`
-6. Thai dataset (optional)
+6. Thai language dataset (optional)
     `sudo apt-get install tesseract-ocr-tha`
 
 ## How to use our device
 1. When the device is turned on, it will be provided a voice instruction for the visually impaired to understand how it works.
-2. Let us bring the documents / various publications that we want to know placed on the pedestal.
-- Then let us press the record button (circle button) to take the images of the document / print media to be processed and read aloud.
-- And we can press the replay button. (square button) in case we want the device to repeat the page
-- and can adjust the volume through the volume dial in the middle of the device
+2. Bring the documents / various publications that we want to know placed on the pedestal.
+3. Then press the record button (circle button) to take the images of the document / printed media to be processed and then output to user.
+Also, you can press the replay button (square button) in case you want the device to repeat sentence. Last but not least you can adjust the volume by twisting it in the middle of the device
