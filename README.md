@@ -32,3 +32,9 @@ This is the source code for our project called **Assistext**. Assistext is the d
 2. Bring the documents / various publications that we want to know placed on the pedestal.
 3. Then press the record button (circle button) to take the images of the document / printed media to be processed and then output to user.
 Also, you can press the replay button (square button) in case you want the device to repeat sentence. Last but not least you can adjust the volume by twisting it in the middle of the device
+
+## The result
+<div align = "center">
+    <img src="https://i.pinimg.com/originals/f9/f6/93/f9f693351cdc8b0c26eaeb94e0af8ff6.jpg">
+</div>
+This is the result of the image that was captured with the camera and then use OpenCV to revert the images to monochrome (black and white). This method will make the computer easier to seprete the texts from images.
