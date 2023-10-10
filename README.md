@@ -38,3 +38,8 @@ Also, you can press the replay button (square button) in case you want the devic
     <img src="https://i.imgur.com/qIhH4XX.png">
 </div>
 This is the result of the image that was captured with the camera and then use OpenCV to revert the images to monochrome (black and white). This method will make the computer easier to seprete the texts from images.
+
+## 3D model
+<div align = "center">
+    <img src="https://i.imgur.com/DOFrKD6.png">
+</div>
