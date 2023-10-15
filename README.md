@@ -7,7 +7,7 @@ This is the source code for our project called **Assistext**. Assistext is the d
 2. Arduino Nano
 > We use it as action reciver for instance, when you press the button, It will send signal to Arduino Nano and it will script into algoritim.
 3. Hikvision 4k webcam
-> This is the camera that we use to capture the image of the 
+> This is the camera that we use to capture the image of the paper.
 4. Potentiometer
 > We use Portentiometer as a volume adjuster. You can twist to left to reduce the volumn and right to increasse the volume.
 5. Speakers
